@@ -1,0 +1,25 @@
+body {
+    background-image: url('moon.jpg');
+    /* position: fixed; */
+    /* background-size: auto; */
+    /* background-repeat: no-repeat; */
+}
+
+.button {
+    width: 100px;
+    height: 70px;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.button:active {
+    background-color: black;
+    color: red;
+}
+
+.mydiv {
+    color: white;
+}
